@@ -3,13 +3,13 @@
 ## Sobre minha pessoa: 
 
 
-- 🖥️ Estudante de Ciência da Computação, cursando o segundo semestre;
+- 🖥️ Estudante de Ciência da Computação, cursando o terceiro semestre;
 
 - ⌨️ Estudante de desenvolvimento WEB;
 
 - 📽️ Designer Gráfico, modelagem 3D e edição de video.
 
-## Minhas Habilidades (skills):
+## Minhas Habilidades:
 
 
 
