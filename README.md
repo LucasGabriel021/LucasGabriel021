@@ -1,6 +1,6 @@
 ## Olá! Me chamo Lucas Gabriel 🖖 ##
 
-## Sobre minha pessoa: 
+## Sobre mim: 
 
 
 - 🖥️ Estudante de Ciência da Computação, cursando o terceiro semestre;
