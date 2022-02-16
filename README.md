@@ -1,4 +1,4 @@
-## Olá! Me chamo Lucas Gabriel 🖖 ##
+## Hello Wordl! Me chamo Lucas Gabriel 🖖 ##
 
 ## Sobre mim: 
 
