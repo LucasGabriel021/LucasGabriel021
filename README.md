@@ -2,14 +2,16 @@
 
 ## Sobre mim: 
 
-
 - 🖥️ Estudante de Ciência da Computação, cursando o terceiro semestre;
+- ⌨️ Estudante de desenvolvimento WEB e Designer Gráfico;
 
-- ⌨️ Estudante de desenvolvimento WEB;
+<div align="center">
+  <a href="https://github.com/LucasGabriel021">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasGabriel021&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabriel021&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-- 📽️ Designer Gráfico, modelagem 3D e edição de video.
-
-## Minhas Habilidades:
+## Tecnologias Utilizadas: 
 
 
 
@@ -22,13 +24,11 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabriel021&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+ 
 
 
 ## Meus contatos: 
 
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sirluca_21/)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SirLucas21)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gomes-706475181/)
-
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sirluca_21/)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SirLucas21)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](lucas-gomes-706475181)
