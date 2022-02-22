@@ -32,3 +32,5 @@
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sirluca_21/)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SirLucas21)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](lucas-gomes-706475181)
+  
+  ![ Animação de cobra ](https://github.com/LucasGabriel021/rafaballerini/blob/output/github-contribution-grid-snake.svg)
