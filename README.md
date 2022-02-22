@@ -1,6 +1,6 @@
 ## Hello Wordl! Me chamo Lucas Gabriel 🖖 ##
 
-## Sobre mim: 
+## Sobre Mim: 
 
 - 🖥️ Estudante de Ciência da Computação, cursando o terceiro semestre;
 - ⌨️ Estudante de desenvolvimento WEB e Designer Gráfico;
@@ -20,7 +20,7 @@
 <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 </div>
 
-## Meus contatos: 
+## Redes Sociais: 
 
 <div>
   
