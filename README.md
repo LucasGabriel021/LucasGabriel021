@@ -13,8 +13,6 @@
 
 ## Tecnologias Utilizadas: 
 
-
-
 <div style="display: inline-block">
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -22,15 +20,10 @@
 <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 </div>
 
-
-
- 
-
-
 ## Meus contatos: 
 
-
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sirluca_21/)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SirLucas21)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](lucas-gomes-706475181)
+<div>
   
-  ![ Animação de cobra ](https://github.com/LucasGabriel021/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sirluca_21/)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SirLucas21)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](lucas-gomes-706475181)
+
+</div>
