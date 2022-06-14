@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabriel021&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## Tecnologias Utilizadas: 
+## Habilidades: 
 
 <div style="display: inline-block">
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
