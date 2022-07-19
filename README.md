@@ -1,9 +1,9 @@
-## Olá Mundo, Me chamo Lucas Gabriel! 🖖 ##
+## Hello Wordl, my name is Lucas Gabriel! 🖖 ##
 
-## Sobre Mim: 
+## About Me: 
 
-- 🖥️ Estudante de Ciência da Computação, cursando o terceiro semestre;
-- ⌨️ Estudante de desenvolvimento WEB e Designer Gráfico;
+- 🖥️ Computer Science student, attending the third semester;
+- ⌨️ Web development student and Graphic Designer;
 
 <div align="center">
   <a href="https://github.com/LucasGabriel021">
@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabriel021&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## Habilidades: 
+## Studying the following technologies: 
 
 <div style="display: inline-block">
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
@@ -19,9 +19,10 @@
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
     <img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_script_apps_logo_icon_159351.png" style="height:50px"/>
+    <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 </div>
 
-## Redes Sociais: 
+## Social networks: 
 
 <div>
   
