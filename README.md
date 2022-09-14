@@ -1,4 +1,4 @@
-## Hello Wordl, my name is Lucas Gabriel! 🖖 ##
+## Hello World, my name is Lucas Gabriel! 🖖 ##
 
 ## About Me: 
 
