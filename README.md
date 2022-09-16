@@ -20,6 +20,7 @@
     <img src="https://img.icons8.com/color/48/FA5252/typescript.png"/>
     <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
     <img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_script_apps_logo_icon_159351.png" style="height:50px"/>
 </div>
 
