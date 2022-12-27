@@ -23,7 +23,6 @@
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/>
     <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
     <img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_script_apps_logo_icon_159351.png" style="height:48px"/>
-    <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
 </div>
 
 ## Social networks: 
