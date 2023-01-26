@@ -2,7 +2,7 @@
 
 ## About Me: 
 
-- 🖥️ Computer Science student, attending the third semester;
+- 🖥️ Computer Science student, attending the fifth semester;
 - ⌨️ Web development student and Graphic Designer;
 
 <div align="center">
@@ -24,6 +24,8 @@
     <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
     <img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_script_apps_logo_icon_159351.png" style="height:48px"/>
     <img src="https://img.icons8.com/color/48/null/sass.png"/>
+    <img src="https://img.icons8.com/color/48/null/tailwindcss.png"/>
+    <img src="https://img.icons8.com/color/48/null/git.png"/>
 </div>
 
 ## Social networks: 
