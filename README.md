@@ -26,6 +26,7 @@
     <img src="https://img.icons8.com/color/48/null/sass.png"/>
     <img src="https://img.icons8.com/color/48/null/tailwindcss.png"/>
     <img src="https://img.icons8.com/color/48/null/git.png"/>
+    <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/>
 </div>
 
 ## Social networks: 
