@@ -27,6 +27,7 @@
     <img src="https://img.icons8.com/color/48/null/tailwindcss.png"/>
     <img src="https://img.icons8.com/color/48/null/git.png"/>
     <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
 </div>
 
 ## Social networks: 
