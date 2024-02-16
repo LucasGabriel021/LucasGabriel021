@@ -2,7 +2,7 @@
 
 ## About Me: 
 
-- 🖥️ Student of Computer Science, attending the sixth semester;
+- 🖥️ Computer Science student, studying the seventh semester;;
 - ⌨️ Web development student and Graphic Designer;
 
 <div align="center">
