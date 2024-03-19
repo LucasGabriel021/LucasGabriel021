@@ -14,21 +14,22 @@
 ## Studying the following technologies: 
 
 <div style="display: inline-block">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
+    <img src="https://img.icons8.com/color/48/null/git.png"/>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-    <img src="https://img.icons8.com/color/48/FA5252/typescript.png"/>
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/>
-    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
-    <img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_script_apps_logo_icon_159351.png" style="height:48px"/>
     <img src="https://img.icons8.com/color/48/null/sass.png"/>
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
     <img src="https://img.icons8.com/color/48/null/tailwindcss.png"/>
-    <img src="https://img.icons8.com/color/48/null/git.png"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/>
+    <img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_script_apps_logo_icon_159351.png" style="height:48px"/>
+    <img src="https://img.icons8.com/color/48/FA5252/typescript.png"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>    
 </div>
 
 ## Social networks: 
