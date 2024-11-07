@@ -28,7 +28,7 @@
     <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
     <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
     <img width="48" height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
-    
+    <img width="48" height="48" src="https://img.icons8.com/color/48/expo.png" alt="expo"/>
      
 </div>
 
