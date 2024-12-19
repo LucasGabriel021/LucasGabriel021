@@ -2,8 +2,8 @@
 
 ## About Me: 
 
-- 🖥️ Computer Science student, studying the eighth semester;
-- ⌨️ Web development student and Graphic Designer;
+- 🖥️ Graduated in Computer Science;
+- ⌨️ UX Design | UI and Front-end Developer;
 
 <div align="center">
   <a href="https://github.com/LucasGabriel021">
