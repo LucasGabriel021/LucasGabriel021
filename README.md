@@ -29,7 +29,7 @@
     <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
     <img width="48" height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/expo.png" alt="expo"/>
-    <img width="48" height="48" src="https://img.icons8.com/ios/50/mendix.png" alt="mendix"/>
+    <img width="48" height="48" src="https://cdn.brandfetch.io/idXl6_NkrJ/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="mendix"/>
      
 </div>
 
