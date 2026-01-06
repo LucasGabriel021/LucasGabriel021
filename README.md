@@ -28,6 +28,7 @@
     <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
     <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
     <img width="48" height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/expo.png" alt="expo"/>
     <img width="48" height="48" src="https://cdn.brandfetch.io/idXl6_NkrJ/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="mendix"/>
      
